@@ -15,7 +15,7 @@ Here are some ideas to get you started
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <h1>Hi there, I'm <a href="https://yourwebsite.com" target="_blank">Your Name</a>! 👋</h1>
+  <h1>Hi there, I'm <a href="https://yourwebsite.com" target="_blank">Navita</a>! 👋</h1>
   <p><strong>B.Tech Computer Science & Engineering Student | Aspiring Software Engineer</strong></p>
 </div>
 
